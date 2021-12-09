@@ -1,0 +1,1 @@
+grep -q secretword README.md && exit 1; exit 0
